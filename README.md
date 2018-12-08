@@ -185,7 +185,7 @@ Finally, designing forms ( e.g. review form) proved to be a problem when using d
 
 ### **User testing**
 
-Iterative usability testing was carried out amongst people that fit the demographic (youths, millennials and young adults). Our web app was continuously tested before the launch amongst a group of 5 users.
+Iterative usability testing was carried out amongst people that fit the demographic (youths, millennials and young adults). Our web app was continuously and iteratively tested before the launch amongst a group of 5 users.
 
 The documentation of the testing process can be found here: 
 https://drive.google.com/open?id=1wi9GFnxa34tMEMEL8yLih9PW_uyTVN8mAr6TiVZ1chU
